@@ -45,6 +45,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Arduino Nicla Voice](https://docs.arduino.cc/hardware/nicla-voice) - SoC based on Arm Cortex-M4 nRF52832 and includes the Syntiant NDP120 Neural Decision Processor.
 - [NXP DNPUs](https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/discrete-neural-processing-units:DNPU) - Discrete Neural Processing Units (DNPUs) hardware accelerators (Kinara aquisition).
 - [Raspberry Pi AI HAT+](https://www.raspberrypi.com/products/ai-hat/) - Hailo-8 or Hailo-8L accelerator offering 26 TOPS or 13 TOPS inferencing performance respectively.
+- [Nordic's nRF54L Series](https://www.nordicsemi.com/Products/nRF54LM20B) - Low-power SoC based on an Arm Cortex-M33 with BLE/Matter/Thread/Zigbee connectivity and an Axon NPU.
 
 # Software
 - [TensorFlow Lite](https://www.tensorflow.org/lite/) - Lightweight solution for mobile and embedded devices which enables on-device machine learning inference with low latency and a small binary size.
