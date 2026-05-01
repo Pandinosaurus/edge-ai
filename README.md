@@ -73,6 +73,7 @@ A curated list of hardware, software, frameworks and other resources for Artific
 - [Z-Ant](https://github.com/ZantFoundation/Z-Ant) - SDK for deploying optimized NNs on microcontrollers.
 - [micro:bit CreateAI](https://createai.microbit.org/) - Web-based tool to train an ML model and then run it on a BBC micro:bit V2.
 - [AutoML VS Code Extension](https://github.com/analogdevicesinc/automl-embedded) - Open Source VSCode Extension for training, optimizing and deploying tailored models on Edge platforms using AutoML (uses [Kenning ML framework](https://github.com/antmicro/kenning)).
+- [Eclipse Aidge](https://gitlab.eclipse.org/eclipse/aidge/aidge) - Open-source framework for optimizing and deploying deep neural networks on embedded systems.
 
 # Other interesting resources
 - [Benchmarking Edge Computing (May 2019)](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
